@@ -324,11 +324,11 @@
 <!--      <artifactId>ale-platform</artifactId>-->
 <!--      <version>0.8.0-${project.version}</version>-->
 <!--    </dependency>-->
-<!--    <dependency>-->
-<!--      <groupId>org.bytedeco</groupId>-->
-<!--      <artifactId>depthai-platform</artifactId>-->
-<!--      <version>2.24.0-${project.version}</version>-->
-<!--    </dependency>-->
+    <dependency>
+      <groupId>org.bytedeco</groupId>
+      <artifactId>depthai-platform</artifactId>
+      <version>2.30.0-${project.version}</version>
+    </dependency>
     <dependency>
       <groupId>org.bytedeco</groupId>
       <artifactId>onnx-platform</artifactId>
